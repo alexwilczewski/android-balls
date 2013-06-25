@@ -1,4 +1,11 @@
-android-balls
-=============
+Android Test App - Balls
+========================
 
-First android app; balls bouncing around screen; touch to generate more
+### At Load
+
+10 Random balls are generated on the screen.
+
+### Interactivity
+
+By touching and dragging your finger you are able to generate many more balls on the screen.
+
